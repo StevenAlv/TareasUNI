@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 //Nombre: Steven Alejandro Alvarez Avendaño
 //Salon: 1M7-S
+//Nª Carnet:2024-1675U
 
 public class MainClass {
 
